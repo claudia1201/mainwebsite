@@ -116,6 +116,7 @@
 	padding: 2%;
 }
 #contact-me-container img{
+	margin-bottom: 5px;
 	height: 35vh;
 	display: block;
     margin-left: auto;
@@ -133,6 +134,10 @@
 }
 .social-box{
 	padding-top: 2%;
+}
+.social-box button{
+	margin:0 auto;
+    display:block;
 }
 .form-group{
 	padding: 0 7% 3.5% 0;
