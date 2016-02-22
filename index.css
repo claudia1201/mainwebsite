@@ -109,6 +109,10 @@
     max-height: 80vh;
     margin: 0 auto;
 }
+.item a{
+	color: white;
+	text-decoration: none;
+}
 
 #contact-me-container{
 	background: url(assets/margarita.jpeg) no-repeat center center fixed;
