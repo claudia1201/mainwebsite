@@ -135,9 +135,11 @@
 .social-box{
 	padding-top: 2%;
 }
-.social-box span{
+.social-box span, .social-box a{
 	margin:0 auto;
     display:block;
+    margin: 0 30%;
+    color: #333;
 }
 .form-group{
 	padding: 0 7% 3.5% 0;
